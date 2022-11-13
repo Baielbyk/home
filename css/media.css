@@ -1,0 +1,459 @@
+@media (max-width: 1200px) {
+}
+
+@media (max-width: 1024px) {
+    .section img {
+        width: 250px;
+    }
+
+    .SectionH1 {
+        margin-left: 337px;
+        font-size: 26px;
+        top: 327px;
+    }
+
+    .heroh3 {
+        padding: 200px 0 140px 135px;
+    }
+
+    .inputs {
+        margin-left: -8px;
+    }
+
+    .inputs button {
+        padding: 10px 87px;
+    }
+
+    .footer {
+        margin: 0 0 131px 0;
+        padding: 110px 0 0 0;
+    }
+
+    .imggg {
+        width: 245px;
+    }
+
+    .footerMenu a {
+        font-size: 17px;
+        line-height: 32px;
+    }
+
+}
+
+@media (max-width: 768px) {
+    .header img {
+        width: 170px;
+    }
+
+    .menu a {
+        font-size: 14px;
+    }
+
+    .Sectionh1 {
+        font-size: 30px;
+    }
+
+    .section img {
+        width: 187px;
+    }
+
+    .SectionH1 {
+        margin-left: 263px;
+        font-size: 19px;
+        top: 262px;
+    }
+
+    .heroh3 {
+        font-size: 15px;
+        padding: 143px 0 130px 28px;
+    }
+
+    .heroh1 {
+        font-size: 25px;
+        padding: 12px 0;
+    }
+
+    .hero h4 {
+        font-weight: 250;
+        font-size: 11px;
+    }
+
+    .inputs input {
+        padding: 1px 11px;
+        font-size: 12px;
+    }
+
+    .inputs {
+        padding: 28px 0 70px 0;
+        width: 88%;
+    }
+
+    .imggg {
+        width: 216px;
+    }
+
+    .footerMenu a {
+        font-size: 13px;
+        line-height: 18px;
+    }
+
+    .sub a {
+        font-size: 11px;
+        line-height: 25px;
+    }
+
+    .zero img {
+        margin: 6px 2px 0 0;
+        padding: 7px;
+        border: solid 1px #D8B152;
+        width: 15px;
+    }
+
+    .sub a:nth-child(1) {
+        font-size: 16px;
+        margin-top: -2px;
+    }
+
+    .footer {
+        margin: 0 0 42px 0;
+        padding: 50px 0 0 0;
+    }
+
+    #footer {
+        height: 368px;
+    }
+}
+
+@media (max-width: 576px) {
+    .header img {
+        width: 134px;
+    }
+
+    .menu a {
+        font-size: 10px;
+    }
+
+    .Sectionh1 {
+        margin: 0 0 0 2px;
+        font-size: 23px;
+    }
+
+    .section img {
+        width: 129px;
+        margin: 8px 9px;
+    }
+
+    .SectionH1 {
+        margin-left: 169px;
+        font-size: 16px;
+        top: 187px;
+    }
+
+    .heroh3 {
+        font-size: 12px;
+        padding: 96px 0 50px 64px;
+        width: 392px;
+    }
+
+    .heroh1 {
+        font-size: 21px;
+        padding: 10px 0;
+    }
+
+    .inputs {
+        padding: 20px 0 47px 0;
+        width: 84%;
+    }
+
+    .inputs input {
+        padding: 3px 5px;
+        font-size: 10px;
+    }
+
+    .inputs button {
+        font-size: 12px;
+        padding: 9px 20px;
+    }
+
+    .imggg {
+        width: 150px;
+    }
+
+    .footerMenu a:nth-child(1) {
+        padding: 0 0 8px 0;
+    }
+
+    .footerMenu a {
+        font-size: 10px;
+        line-height: 14px;
+    }
+
+    .sub a:nth-child(1) {
+        font-size: 13px;
+        margin-top: -5px;
+    }
+
+    .sub img {
+        width: 14px;
+    }
+
+    .ft img {
+        padding: 0 6px 0 0;
+    }
+
+    .fr img {
+        padding: 0 6px 0 0;
+    }
+
+    .zero h2 {
+        font-size: 13px;
+    }
+
+    .zero img {
+        width: 9px;
+    }
+
+    #footer {
+        height: 300px;
+    }
+}
+
+@media (max-width: 414px) {
+    .header img {
+        width: 107px;
+    }
+
+    .menu a {
+        font-size: 7px;
+    }
+
+    .section {
+        padding: 0 0 0 45px;
+    }
+
+    .SectionH1 {
+        margin-left: 173px;
+        font-size: 14px;
+        top: 172px;
+    }
+
+    .heroh3 {
+        font-size: 7px;
+        padding: 49px 0 31px 6px;
+        width: 355px;
+    }
+
+    .heroh1 {
+        font-size: 17px;
+        padding: 7px 0;
+    }
+
+    .hero h4 {
+        font-weight: 250;
+        font-size: 8px;
+    }
+
+    .inputs input {
+        padding: 0 2px;
+        font-size: 6px;
+    }
+
+    .footer {
+        margin: 0 0 26px 0;
+        padding: 28px 0 0 0;
+    }
+
+    .imggg {
+        width: 124px;
+        margin-top: -20px;
+    }
+
+    .footerMenu a:nth-child(1) {
+        padding: 0 0 4px 0;
+    }
+
+    .footerMenu a {
+        font-size: 9px;
+        line-height: 12px;
+    }
+
+    .sub a:nth-child(1) {
+        font-weight: 500;
+        font-size: 10px;
+        margin-top: -8px;
+    }
+
+    .sub a {
+        font-size: 7px;
+        line-height: 22px;
+    }
+
+    .zero h2 {
+        font-size: 10px;
+    }
+
+    .zero img {
+        margin: 3px 2px 0 0;
+        padding: 4px;
+        width: 7px;
+    }
+
+    #footer {
+        height: 200px;
+    }
+}
+
+@media (max-width: 380px) {
+    .Sectionh1 {
+        font-size: 19px;
+    }
+
+    .section img {
+        width: 127px;
+        margin: 5px 4px;
+    }
+
+    .SectionH1 {
+        margin-left: 163px;
+        font-size: 13px;
+        top: 163px;
+    }
+
+    .heroh3 {
+        font-size: 7px;
+        padding: 30px 0 24px 0px;
+        width: 346px;
+    }
+
+    .heroh1 {
+        font-size: 15px;
+        padding: 4px 0;
+    }
+
+    .inputs {
+        padding: 9px 0 13px 0;
+    }
+
+    .imggg {
+        width: 110px;
+    }
+
+    .footerMenu a:nth-child(1) {
+        padding: 0 0 2px 0;
+    }
+
+    .footerMenu a {
+        font-size: 7px;
+        line-height: 11px;
+    }
+
+    .footerMenu a {
+        font-size: 7px;
+        line-height: 11px;
+    }
+
+    .ft img {
+        padding: 0 3px 0 0;
+    }
+
+    .fr img {
+        padding: 0 3px 0 0;
+    }
+
+    .sub img {
+        width: 12px;
+    }
+
+    .sub a {
+        font-size: 6px;
+        line-height: 19px;
+    }
+
+    .sub a:nth-child(1) {
+        font-weight: 600;
+        font-size: 9px;
+        margin-top: -2px;
+    }
+
+    #footer {
+        height: 150px;
+    }
+}
+
+@media (max-width: 360px) {
+    .heroh3 {
+        width: 325px;
+    }
+}
+
+@media (max-width: 320px) {
+    .menu a {
+        display: none;
+    }
+    .burger{
+     display: block;
+    }
+    .section img {
+        width: 108px;
+        margin: 5px 4px;
+    }
+    .section {
+        padding: 0 0 0 30px;
+    }
+    .SectionH1 {
+        margin-left: 140px;
+        font-size: 11px;
+        top: 154px;
+    }
+    .heroh3 {
+        font-size: 6px;
+        padding: 17px 0 10px 0;
+        width: 273px;
+    }
+    .heroh1 {
+        font-size: 11px;
+        padding: 3px 0;
+    }
+    .hero h4 {
+        font-size: 4px;
+    }
+    .inputs button {
+        font-size: 5px;
+        padding: 4px 18px;
+    }
+    .inputs {
+        width: 93%;
+    }
+    .imggg {
+        width: 90px;
+        margin-top: -30px;
+    }
+    .footerMenu a {
+        font-size: 5px;
+        line-height: 9px;
+    }
+    .sub a:nth-child(1) {
+        font-weight: 400;
+        font-size: 7px;
+        margin-top: -4px;
+    }
+    .sub img {
+        width: 9px;
+    }
+    .sub a {
+        font-size: 4px;
+        line-height: 16px;
+    }
+    .zero h2 {
+        font-size: 8px;
+    }
+    .zero img {
+        margin: 0 0 0 0;
+    }
+    .free {
+        font-size: 18px;
+    }
+    #footer {
+        height: 120px;
+    }
+}
